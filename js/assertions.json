@@ -1,0 +1,10 @@
+{
+  "simulation": "browsingFeedbacks",
+  "simulationId": "browsingfeedbacks",
+  "start": 1533988457581,
+  "description": "",
+  "scenarios": ["browsingFeedbacks"],
+  "assertions": [
+
+  ]
+}
